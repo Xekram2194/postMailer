@@ -25,7 +25,7 @@
     <a href="https://github.com/Xekram2194/xekram.github.io/issues">Request Feature</a>
 </h3>
 
-## TL;DR
+## Fork
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Xekram2194](https://github.com/Xekram2194/xekram.github.io). Thanks!
 
