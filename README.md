@@ -38,7 +38,7 @@ This project was built using these technologies.
 - Node
 - Express
 - Javascript
-- Tipyscript
+- Typescript
 - VsCode
 - Vercel
 - MongoDB
